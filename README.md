@@ -1,12 +1,12 @@
-# {name}
+# iBooker 老实人报
 
-> 原文：[{nameEn}]({urlEn})
-> 
+![](doc/img/logo.webp)
+
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 看看我们的帽子，这就是老实人的力量！
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://ipd.apachecn.org)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 贡献指南
@@ -19,11 +19,11 @@
 
 ### 负责人
 
-* [{adminName}](https://github.com/{adminUn}): {adminQq}
+* [飞龙](https://github.com/wizardforcel): 562826179
 
 ### 其他
 
-*   在我们的 [apachecn/{repo}](https://github.com/apachecn/{repo}) github 上提 issue.
+*   在我们的 [apachecn/ibooker-plain-dealer](https://github.com/apachecn/ibooker-plain-dealer) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
@@ -32,24 +32,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/{dockerName}
-docker run -tid -p <port>:80 apachecn0/{dockerName}
+docker pull apachecn0/ibooker-plain-dealer
+docker run -tid -p <port>:80 apachecn0/ibooker-plain-dealer
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install {pypiName}
-{pypiName} <port>
+pip install ibooker-plain-dealer
+ibooker-plain-dealer <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g {npmName}
-{npmName} <port>
+npm install -g ibooker-plain-dealer
+ibooker-plain-dealer <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
