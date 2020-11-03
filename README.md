@@ -1,4 +1,4 @@
-# iBooker 老实人报
+# iBooker 布客老实人报
 
 ![](doc/img/logo.webp)
 
